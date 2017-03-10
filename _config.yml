@@ -1,3 +1,9 @@
 theme: jekyll-theme-cayman
 title: Welcome
 description: AEPI
+
+<form action="http://google.com">
+    <input type="submit" value="Go to Google" />
+</form>
+
+<select> 
