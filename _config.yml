@@ -2,6 +2,10 @@ theme: jekyll-theme-cayman
 title: Welcome
 description: AEPI
 
-<input type="button" onclick="location.href='http://google.com';" value="Go to Google" />
+
+<button onclick="location.href='http://www.example.com'" type="button">
+     www.example.com</button>
+
+
 
 
