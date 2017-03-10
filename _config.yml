@@ -3,19 +3,8 @@ title: Welcome
 description: AEPI
 
 markdown: kramdown
-output:
-  html_document:
-    number_sections: no
-    toc: yes
-    toc_depth: 2
-fontsize: 12pt
----
 
-# Introduction
-
-Here is some interesting stuff that I want to talk about.  But first, let's review those earlier demographic maps we'd seen.
-
-!![demographics map]('.PhantomLoaf.github.io/this.html')
+{ % include this.html % }
 
 
 
