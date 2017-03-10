@@ -2,4 +2,4 @@
 
 # TAU IOTA
 
-Here is a [Link](http://www.aepigivesback.org/tau-iota)
+Please donate to us [here](http://www.aepigivesback.org/tau-iota)
